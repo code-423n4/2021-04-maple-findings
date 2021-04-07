@@ -1,10 +1,9 @@
 # Maple Finance Contest
-- XXX main award pot
-- XXX gas optimization award pot
+- $100,000 USDC main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://c4-maple.netlify.app/)
 - [Read our guidelines for more details](https://code423n4.com/compete)
-- Starts 2021-04-07T00:00 UTC
+- Starts 2021-04-08T00:00 UTC
 - Ends 2021-04-21T23:59 UTC
 
 This repo will be made public before the start of the contest.
