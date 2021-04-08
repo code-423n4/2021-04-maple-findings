@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "0xsomeone",
+  "address": "0xa462fae8b85FFf172660c5D9e3C98C84691CA4d2",
+  "risk": "1",
+  "title": "Cross-Chain Replay Attack",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/maple-results/issues/2"
+}
