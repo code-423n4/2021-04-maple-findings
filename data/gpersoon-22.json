@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "nonReentrant is missing compared to original",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/maple-results/issues/22"
+}
