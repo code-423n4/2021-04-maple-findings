@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Same constants defined in different files",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/maple-results/issues/23"
+}
