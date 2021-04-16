@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "claim doesn't check state",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/maple-results/issues/18"
+}
