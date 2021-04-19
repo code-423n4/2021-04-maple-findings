@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "0xRajeev",
+  "address": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+  "risk": "1",
+  "title": "Missing event for critical operation of new Funding locker creation in FundingLockerFactory.sol",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/maple-results/issues/30"
+}
