@@ -31,4 +31,4 @@ Add any necessary comments explaining your reasoning for this decision, noting t
 
 For each non-duplicate finding which you have confirmed, you will want to mitigate the issue before the contest report is made public.
 
-As part of that process, we ask that you create a pull request in your original repo for each finding and link to the PR in the issue the PR resolves. This will allow for complete transparency in showing the work of mitigating the issues found in the contest.
+As part of that process, we ask that you create a pull request in your original repo for each finding and link to the PR in the issue the PR resolves. This will allow for complete transparency in showing the work of mitigating the issues found in the contest. Rather than closing the issue, mark it as `resolved` with that label.
