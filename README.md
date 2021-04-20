@@ -22,7 +22,7 @@ Because the wardens are submitting issues without seeing each others' submission
 
 Label each finding as one of these:
 - `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it.")
-- `sponsor disputed`, meaning either: "We either not duplicate this issue" or "We disagree that this is an issue at all."
+- `sponsor disputed`, meaning either: "We cannot duplicate this issue" or "We disagree that this is an issue at all."
 - `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
 
 Add any necessary comments explaining your reasoning for this decision, noting that when the repo is open after all issues are mitigated, wardens will read these comments.
