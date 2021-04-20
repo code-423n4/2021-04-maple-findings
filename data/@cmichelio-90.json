@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "@cmichelio",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "MPL reward claims of balancer pools can be exploited",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/maple-results/issues/90"
+}
