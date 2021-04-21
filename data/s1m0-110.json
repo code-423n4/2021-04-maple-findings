@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "s1m0",
+  "address": "0x9b3e9e3e4a174d59279fc7cd268e035992412384",
+  "risk": "1",
+  "title": "Oracle not checked if set for an asset",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2021-04-maple-findings/issues/110"
+}
