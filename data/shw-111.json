@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "2",
+  "title": "Any valid liquidator can arbitrage from the loan contract to earn collateral assets by exploiting the maximum slippage when defaulting a loan.",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2021-04-maple-findings/issues/111"
+}
