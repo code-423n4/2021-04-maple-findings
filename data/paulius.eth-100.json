@@ -1,0 +1,9 @@
+{
+  "contest": "4",
+  "handle": "paulius.eth",
+  "address": "0x523B5b2Cc58A818667C22c862930B141f85d49DD",
+  "risk": "3",
+  "title": "LoanLib.unwind uses globals.fundingPeriod()",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2021-04-maple-findings/issues/100"
+}
